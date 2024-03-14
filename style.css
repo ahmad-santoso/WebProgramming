@@ -1,5 +1,27 @@
+body{
+    background-color: #F1F1F1;
+}
+
 header {
     margin: 20px;
     padding: 10px 20px 10px 20px;
     box-shadow: 2px 2px 7px 1px #e3e6e8;
+    background-color: white;
+}
+
+.Navbar{
+    background-color: black;
+    list-style: none;
+    color: white;
+    display: flex;
+}
+
+.Navli{
+    padding-left: 30px;
+}
+
+.button_login{
+    display: flex;
+    text-align: end;
+    padding-left: 750px;
 }
