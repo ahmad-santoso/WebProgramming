@@ -9,19 +9,33 @@ header {
     background-color: white;
 }
 
-.Navbar{
+.middle_header {
+    text-align: center;
+}
+
+.middle_header p {
+    font-size: 20px;
+}
+
+.Navbar {
     background-color: black;
     list-style: none;
     color: white;
     display: flex;
+    padding-left: 0;
 }
 
-.Navli{
-    padding-left: 30px;
+.Navli {
+    padding-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 0;
 }
 
-.button_login{
+.button_login {
     display: flex;
     text-align: end;
-    padding-left: 750px;
+    padding-left: 920px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
