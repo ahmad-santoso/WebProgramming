@@ -40,14 +40,41 @@ header {
     margin-bottom: 10px;
 }
 
-.main1{
+main {
+    display: flex;
+}
+
+.main1 {
+    margin: 20px;
+    padding: 10px 400px 10px 20px;
+    box-shadow: 2px 2px 7px 1px #e3e6e8;
+    background-color: white;
+}
+
+.gambarmain {
+    background-color:  #AAAAAA;
+    padding: 18px 50px 100px 21px;
+}
+
+aside {
+    display: inline-block;
+}
+
+.tentangkami {
     margin: 20px;
     padding: 10px 20px 10px 20px;
     box-shadow: 2px 2px 7px 1px #e3e6e8;
     background-color: white;
 }
 
-.gambarmain{
+.imagetentangkami {
     background-color:  #AAAAAA;
-    padding: 18px 50px 100px 21px;
+    padding: 18px 50px 50px 21px;
+}
+
+.followme {
+    margin: 20px;
+    padding: 10px 20px 10px 20px;
+    box-shadow: 2px 2px 7px 1px #e3e6e8;
+    background-color: white;
 }
