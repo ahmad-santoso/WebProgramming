@@ -11,6 +11,7 @@ header {
 
 .middle_header {
     text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .middle_header p {
@@ -86,16 +87,20 @@ aside {
 
 footer  {
     display: flex;
-    background-color:  #AAAAAA;
+    background-color:  #aaaaaa5c;
     padding: 10px 50px 5px 21px;
 }
 .h2footer{
     padding-left: 280px;
     margin-top: 10px;
     margin-bottom: 10px;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .h3footer{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
     padding-left: 15px;
-    padding-top: 15px;
+    padding-top: 11px;
     margin: 0 0 0 0;
 }
